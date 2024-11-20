@@ -13,7 +13,7 @@
 - **Maven** para gerenciamento de dependências.
 - **JAX-RS** com a implementação **Jersey** para APIs RESTful.
 - **Apache Tomcat** para execução e deployment.
-- **Banco de Dados**: Configurável para qualquer SGBD compatível com JDBC.
+- **Banco de Dados**: utilizado o Oracle SQL Developer.
 - Integração com APIs externas para análise de consumo.
 
 ## 📂 Estrutura do Projeto
